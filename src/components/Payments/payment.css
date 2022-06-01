@@ -1,0 +1,37 @@
+/**
+ * @author Prit Thakkar (B00890731)
+ */
+.payment-modal {
+  font-family: IbmPlex Medium;
+}
+.addpayment-container {
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.addpayment-title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.addpayment-element {
+  margin: 5px 0px 5px;
+}
+.addpayment-submit-button {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #0165b2 !important;
+}
+.addpayment-pay-button {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.submit {
+  display: flex;
+  margin: 20px 0px 20px;
+  margin-left: 50%;
+}
